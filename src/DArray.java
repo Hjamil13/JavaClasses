@@ -15,23 +15,26 @@ String[] cars= {"car1", "car2", "car3", "car4", "car5", "car6"};
         }
         for (String b:cars) {
             System.out.println(b);
+        }
+        System.out.println("********************************");
+}
 
-}}}
-}
-System.out.println("-------------------------");
-}
+
+
 
 	int [] num= {4,5,9};
     int sum=0;
     for (int i=0; i<num.length; i++) {
         sum=sum+num[i];
         System.out.println(sum);	
-	
+        System.out.println("*************************");	
 }
-System.out.println(''-------------------------------'');
+}
 
 	
-public class Capital_Country {    public static void main(String[] args) {
+public class CapitalCountry {   
+	public static void main(String[] args) {
+}
         
         String [] country= {"Turkey", "USA", "Germany"};
         
@@ -63,6 +66,6 @@ public class Capital_Country {    public static void main(String[] args) {
             break;
             }
             System.out.println(cap);
-        }
-        
+        }}
+}  } 
         
